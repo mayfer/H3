@@ -36,3 +36,15 @@ If you use this codebase, or otherwise found our work valuable, please cite:
   year={2023}
 }
 ```
+
+
+
+murat's notes:
+
+git clone https://huggingface.co/danfu09/H3-355M
+git clone https://huggingface.co/danfu09/H3-1.3B
+git clone https://huggingface.co/danfu09/H3-1.3B
+
+sudo apt-get install git-lfs
+git submodule init
+git submodule update
